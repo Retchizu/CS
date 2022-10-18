@@ -44,7 +44,13 @@ Travelling in business class [Y/N]: Y
 
 0
 1000
-
+5
+700
+10
+500
+8000
+c
+y
 
 Enter Discount for Ordinary Passenger:
 Business class additional Fare for Ordinary Passenger:
