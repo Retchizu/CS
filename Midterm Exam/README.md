@@ -50,21 +50,21 @@ Input
 
 inputs
 
-Iphone 14
-75,000.00
-Samsung Note 20
-76,000.00
-Xiaomi Black·shark
-35,000.00
-10
-5
-10
-20
-i
-2
-Output
+Iphone 14<br />
+75,000.00<br />
+Samsung Note 20<br />
+76,000.00<br />
+Xiaomi Black shark<br />
+35,000.00<br />
+10<br />
+5<br />
+10<br />
+20<br />
+i<br />
+2<br />
+Output<br />
 
-Sales·Input
+Sales Input
 
 Enter Product 1: 
 Enter Price:
@@ -77,14 +77,14 @@ Enter Price:
 
 Input Mode of Payment Terms
 
-Cash Discount:
-	You input 10.0% Discount for Cash
-3 Months Installment:
-	You input 5.0% Interest for 3 Months Installment
-6 Months Installment:
-	You input 10.0% Interest for 6 Months Installment
-12 Months Installment:
-	You input 20.0% Interest for 12 Months Installment
+Cash Discount: <br />
+	<ul>You input 10.0% Discount for Cash</ul>
+3 Months Installment: <br />
+	<ul>You input 5.0% Interest for 3 Months Installment </ul>
+6 Months Installment: <br />
+	<ul>You input 10.0% Interest for 6 Months Installment </ul>
+12 Months Installment: <br />
+	<ul>You input 20.0% Interest for 12 Months Installment </ul><br />
 
 Main Menu
 
@@ -92,20 +92,22 @@ Press I/i:Iphone 14				$75,000.00
 Press S/s:Samsung Note 20		$76,000.00
 Press X/x:Xiaomi Black shark	$35,000.00
 
-Enter·Item: 
-	Your Item is Iphone·14
+Enter Item: 
+
+<ul>Your Item is Iphone 14</ul>
 
 Select mode of Payment
 
-Press 1:Cash					        10.0% Discount
-Press 2:3 Months·Installment	5.0% Interest
-Press 3:6 Months·Installment	10.0% Interest
-Press 4:12 Months·Installment	20.0% Interest
+Press 1:Cash					        10.0% Discount<br />
+Press 2:3 Months Installment	5.0% Interest<br />
+Press 3:6 Months Installment	10.0% Interest<br />
+Press 4:12 Months Installment	20.0% Interest<br />
 
 Enter Mode of Payment:		
-Mode of Payment:				      3 Months Installment
-Item:							            Iphone 14
-Price:							          $75,000.00
-Discount/Interest:			      $3,750.00
-Total Amount:					        $78,750.00
-Monthly Amortization:		      $26,250.00
+Mode of Payment:				      3 Months Installment<br />
+Item:							            Iphone 14<br />
+Price:							          $75,000.00<br />
+Discount/Interest:			      $3,750.00<br />
+Total Amount:					        $78,750.00<br />
+Monthly Amortization:		      $26,250.00<br />
+
