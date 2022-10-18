@@ -50,7 +50,7 @@ Travelling in business class [Y/N]: Y
 500
 8000
 c
-y
+y DJAidfkahfodiaw
 
 Enter Discount for Ordinary Passenger:
 Business class additional Fare for Ordinary Passenger:
