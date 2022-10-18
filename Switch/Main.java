@@ -1,3 +1,7 @@
+//1BSCS-1
+//9/27/2022
+//Coded by: Richmond A. Baltazar
+
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
@@ -75,6 +79,6 @@ public class Main
 		System.out.println("Discount: " + df.format(0) + " pesos");
 		System.out.println("Business class charge: " + df.format(0) + " pesos");
 		System.out.println("\nNew fare: " + df.format(0) + " pesos");
-        }
+        	}
 	}
 }
