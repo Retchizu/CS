@@ -1,3 +1,5 @@
+Switch case
+
 by Marc Laureta
 Create program Fare that computes discount of passenger. Use the given table:
 
