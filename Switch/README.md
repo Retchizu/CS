@@ -42,15 +42,15 @@ Enter fare: 8000.00
 Passenger type [O,S,C]: C
 Travelling in business class [Y/N]: Y
 
-0
-1000
-5
-700
-10
-500
-8000
-c
-y DJAidfkahfodiaw
+0 <br />
+1000 <br />
+5 <br />
+700 <br />
+10 <br /> 
+500 <br />
+8000 <br />
+c <br />
+y <br />
 
 Enter Discount for Ordinary Passenger:
 Business class additional Fare for Ordinary Passenger:
