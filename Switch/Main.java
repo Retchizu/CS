@@ -14,8 +14,7 @@ public class Main
 		DecimalFormat df = new DecimalFormat("###,##0.00");
 		double discount1 = 0, discount2 = 0, discount3 = 0;
 		double fare = 0, additionalFareO = 0, additionalFareS = 0, additionalFareC = 0;
-		double finalDisc;
-		double finalFare;
+		double finalDisc, finalFare;
 		
 		System.out.println("Enter Discount for Ordinary Passenger: ");
 		discount1 = scanner.nextInt();
