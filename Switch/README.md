@@ -69,7 +69,3 @@ Discount: 800.00 pesos
 Business class charge: 500.00 pesos
 
 New fare: 7,700.00 pesos
-
-
-
-
