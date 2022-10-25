@@ -8,7 +8,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		        
-		int number = 0,oddNumber = 1, oddNth = 1;
+	int number = 0,oddNumber = 1, oddNth = 1;
         int nth = 0, sum = 0;
 
         Scanner scanner = new Scanner(System.in);
