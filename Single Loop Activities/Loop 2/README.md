@@ -1,4 +1,4 @@
-#Loop 2
+# Loop 2
 ## by Marc Laureta
 
 Create a do-while loop program called SumOfOddNumber that will print the nth term of odd numbers and their sum. Don’t use modulus (%) operator.
