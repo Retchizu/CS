@@ -1,3 +1,7 @@
+//Richmond A. Baltazar
+//1BSCS-1
+//October 25, 2022
+
 import java.util.*;
 public class Main {
 
