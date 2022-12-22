@@ -1,0 +1,18 @@
+class Solution {
+    public int maxProfit(int[] prices) {
+        int priceLength = prices.length;
+        int currentProfit = 0, totalProfit = 0;
+        for(int i = 1; i < priceLength; i++){
+            int buy = prices[i - 1];
+            if(buy > prices[i]){ // check if the previous value is smaller than the current value
+                buy = prices[i];
+            }
+            if(buy < prices[i]){ // if the previous value is less than current value then perform minus operation
+                currentProfit = prices[i] - buy;
+                totalProfit += currentProfit;
+            }
+            
+        }
+        return totalProfit;
+    }
+}
